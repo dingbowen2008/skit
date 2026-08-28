@@ -5,8 +5,8 @@
  */
 const I18N_DATA = {
   "en": {
-    "site_title": "Nature's Symphony",
-    "site_subtitle": "Listen to the Music of Nature",
+    "site_title": "“Sonic Cocoon" Cloud Soundscape Library",
+    "site_subtitle": "May you find inner peace while listening to the melody of nature.",
     "nav_about": "About",
     "nav_home": "Home",
     "nav_share": "Share",
@@ -106,8 +106,8 @@ const I18N_DATA = {
     "lang_switch": "中文"
   },
   "zh": {
-    "site_title": "聆听大自然",
-    "site_subtitle": "《音乐专辑》赏析",
+    "site_title": "云音景库",
+    "site_subtitle": "愿你在聆听大自然旋律的同时，找到内心的平静。",
     "nav_about": "关于",
     "nav_home": "首页",
     "nav_share": "分享",
