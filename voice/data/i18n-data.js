@@ -2,6 +2,7 @@ const I18N = {
   zh:{
     title:"星海潮汐", 
     subtitle:"声音里的温柔世界 · 一个用声音陪伴成长的小游戏",
+    subtitle2:"Independent creator: Ding Baiwen Time spent: Three years",
     chooseTheme:"请选择你的旅程",
     themeWaveName:"呐喊逐浪", themeWaveDesc:"用声音唤起浪花，声音越大，浪越高、越灿烂。",
     themeStarName:"静观星海", themeStarDesc:"在安静中，让夜空缓缓亮起，星星越来越多。",
@@ -58,7 +59,7 @@ const I18N = {
     infoClose:"关闭"
   },
   en:{
-    title:"Star & Tide", subtitle:"A gentle world made of sound · a game that grows with you",
+    title:"Star & Tide", subtitle:"A gentle world made of sound · a game that grows with you", subtitle2:"Independent creator: Ding Baiwen Time spent: Three years"
     chooseTheme:"Choose your journey",
     themeWaveName:"Voice the Waves", themeWaveDesc:"Your voice raises the waves — louder makes them taller and brighter.",
     themeStarName:"Still Star Sea", themeStarDesc:"In the quiet, the night sky slowly lights up, star by star.",
