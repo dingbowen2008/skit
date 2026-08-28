@@ -5,7 +5,7 @@
  */
 const I18N_DATA = {
   "en": {
-    "site_title": "“Sonic Cocoon" Cloud Soundscape Library",
+    "site_title": " "Sonic Cocoon" Cloud Soundscape Library",
     "site_subtitle1": "May you find inner peace while listening to the melody of nature.",
     "site_subtitle2": "Independent creator: Ding Baiwen Time spent: Three years"
     "nav_about": "About",
