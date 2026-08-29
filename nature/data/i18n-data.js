@@ -6,8 +6,7 @@
 const I18N_DATA = {
   "en": {
     "site_title": "\"Sonic Cocoon\" Cloud Soundsape Librany",
-    "site_subtitle1": "May you find inner peace while listening to the melody of nature.",
-    "site_subtitle2": "Independent creator: Ding Baiwen Time spent: Three years",
+    "site_subtitle": "May you find inner peace while listening to the melody of nature.",
     "nav_about": "About",
     "nav_home": "Home",
     "nav_share": "Share",
@@ -88,7 +87,7 @@ const I18N_DATA = {
     "back_home": "Back to Home",
     "back_prev": "Back",
     "about_title": "About the Sound Museum",
-    "about_p1": "The Sound Museum brings the healing sounds of nature to everyone, allowing them to relieve their tense nerves with comfortable frequencies during high-intensity study and work.",
+    "about_p1": "The Sound Museum brings the healing sounds of nature to everyone, allowing them to relieve their tense nerves with comfortable frequencies during high-intensity study and work.Independent creator: Ding Baiwen Time spent: Three years",
     "about_p2": "Whether you seek relaxation, meditation, focus, or simply a moment of peace, our curated soundscapes provide the perfect backdrop. Close your eyes, take a deep breath, and let nature's music wash over you.",
     "about_p3": "All audio recordings are made by hand by us over a period of three years. The images have been carefully selected on non-copyright requirement websites to match each sound landscape and create a fully immersive experience.",
     "about_sounds": "The Sounds",
@@ -108,8 +107,7 @@ const I18N_DATA = {
   },
   "zh": {
     "site_title": "云音景库",
-    "site_subtitle1": "愿你在聆听大自然旋律的同时，找到内心的平静。",
-    "site_subtitle2": "独立创作者：丁柏文 耗时：3年",
+    "site_subtitle": "愿你在聆听大自然旋律的同时，找到内心的平静。",
     "nav_about": "关于",
     "nav_home": "首页",
     "nav_share": "分享",
@@ -190,7 +188,7 @@ const I18N_DATA = {
     "back_home": "返回首页",
     "back_prev": "返回",
     "about_title": "关于声音博物馆",
-    "about_p1": "声音博物馆将大自然具有疗愈功能的声音带给大家，让大家在高强度的学习与工作中能够用舒适的频率来舒缓自己紧绷的神经。",
+    "about_p1": "声音博物馆将大自然具有疗愈功能的声音带给大家，让大家在高强度的学习与工作中能够用舒适的频率来舒缓自己紧绷的神经。独立创作者：丁柏文 耗时：3年",
     "about_p2": "无论您是寻求放松、冥想、专注，还是仅仅想要片刻宁静，我们精心策划的声音景观都能提供完美的背景。闭上眼睛，深呼吸，让大自然的音乐洗涤您的心灵。",
     "about_p3": "所有音频录音均来源于我们历经3年时间亲手录制。图片在非版权要求网站经过精心挑选，以配合每个声音景观，创造完全沉浸式的体验。",
     "about_sounds": "声音来源",
