@@ -5,9 +5,9 @@
  */
 const I18N_DATA = {
   "en": {
-    "site_title": "\"Sonic Cocoon\" Cloud Soundsape Librany"
+    "site_title": "\"Sonic Cocoon\" Cloud Soundsape Librany",
     "site_subtitle1": "May you find inner peace while listening to the melody of nature.",
-    "site_subtitle2": "Independent creator: Ding Baiwen Time spent: Three years"
+    "site_subtitle2": "Independent creator: Ding Baiwen Time spent: Three years",
     "nav_about": "About",
     "nav_home": "Home",
     "nav_share": "Share",
@@ -109,6 +109,7 @@ const I18N_DATA = {
   "zh": {
     "site_title": "云音景库",
     "site_subtitle": "愿你在聆听大自然旋律的同时，找到内心的平静。",
+    "site_subtitle2": "独立创作者：丁柏文 耗时：3年",
     "nav_about": "关于",
     "nav_home": "首页",
     "nav_share": "分享",
