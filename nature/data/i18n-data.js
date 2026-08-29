@@ -108,7 +108,7 @@ const I18N_DATA = {
   },
   "zh": {
     "site_title": "云音景库",
-    "site_subtitle": "愿你在聆听大自然旋律的同时，找到内心的平静。",
+    "site_subtitle1": "愿你在聆听大自然旋律的同时，找到内心的平静。",
     "site_subtitle2": "独立创作者：丁柏文 耗时：3年",
     "nav_about": "关于",
     "nav_home": "首页",
