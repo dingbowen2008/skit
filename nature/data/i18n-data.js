@@ -5,7 +5,7 @@
  */
 const I18N_DATA = {
   "en": {
-    "site_title": "\"Sonic Cocoon\" Cloud Soundsape Librany",
+    "site_title": "\"Sonic Cocoon\" Cloud Soundscape Library",
     "site_subtitle": "May you find inner peace while listening to the melody of nature.",
     "nav_about": "About",
     "nav_home": "Home",
